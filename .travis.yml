@@ -13,4 +13,4 @@ script:
 deploy:
   provider: heroku
   app: quiet-crag-45974
-  api_key: $(HEROKU_API_KEY)
+  api_key: ${HEROKU_API_KEY}
