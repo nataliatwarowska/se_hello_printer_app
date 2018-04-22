@@ -42,7 +42,6 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 .. image:: https://travis-ci.org/nataliatwarowska/se_hello_printer_app.svg?branch=master
 
-    ...
 
 
 Pomocnicze
